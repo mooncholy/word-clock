@@ -1,1 +1,1 @@
-# world-clock
+# word-clock
