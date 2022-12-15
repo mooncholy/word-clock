@@ -8,4 +8,4 @@ This project was made as the final assessment for the Maker Diploma organized by
 - RDWorks
 
 ## To know more:  
-To knoe more about the project journey including the coding process of the project as well as the design and manufacturing proceses and files of this project, please refer to the documentation at: https://sites.google.com/san3atech.com/mooncholy/final-project?authuser=0
+To know more about the project journey including the coding process of the project as well as the design and manufacturing proceses and files of this project, please refer to the documentation at: https://sites.google.com/san3atech.com/mooncholy/final-project?authuser=0
